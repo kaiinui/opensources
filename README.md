@@ -26,6 +26,11 @@ Logging
 
 - [witness](https://github.com/kaiinui/witness) WIP (witness-ios and witness-android is also WIP) ![](http://progressed.io/bar/5)
 
+Go
+---
+
+- [Chameleon](https://github.com/filmapp/chameleon) - Dynamic image resizing server.
+
 Ruby
 ---
 

@@ -4,10 +4,10 @@ opensources
 iOS
 ---
 
-- [incam](https://github.com/kaiinui/incam)
-- [KIFastQR](https://github.com/kaiinui/FastQR)
-- [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom)
-- [AQMBundledUser](https://github.com/AQAquamarine/AQMBundledUser)
+- [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
+- [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat)
+- [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom) ![](http://img.shields.io/cocoapods/v/AQMSecureRandom.svg?style=flat)
+- [AQMBundledUser](https://github.com/AQAquamarine/AQMBundledUser) ![](http://img.shields.io/cocoapods/v/AQMBundledUser.svg?style=flat)
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)
 
@@ -29,11 +29,11 @@ Logging
 Ruby
 ---
 
-- [aquasync-model](https://github.com/AQAquamarine/aquasync-model)
-- [middleman-inliner](https://github.com/kaiinui/middleman-inliner)
-- [CloudFlow](https://github.com/kaiinui/CloudFlow)
-
+- [aquasync-model](https://github.com/AQAquamarine/aquasync_model) ![](https://badge.fury.io/rb/aquasync_model.svg)
+- [middleman-inliner](https://github.com/kaiinui/middleman-inliner) ![](https://badge.fury.io/rb/middleman-inliner.svg)
+- [CloudFlow](https://github.com/kaiinui/cloud_flow) ![](https://badge.fury.io/rb/cloud_flow.svg)
+ 
 Lists
 ---
 
-- [Android Awesome Libraries](https://github.com/kaiinui/android-awesome-libraries)
+- [Android Awesome Libraries](https://github.com/kaiinui/android-awesome-libraries) 80+ libraries are listed!

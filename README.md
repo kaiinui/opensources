@@ -18,7 +18,7 @@ Android
 Go
 ---
 
-- [witness](https://github.com/kaiinui/witness) WIP
+- [witness](https://github.com/kaiinui/witness) WIP (witness-ios and witness-android is also WIP)
 
 Ruby
 ---

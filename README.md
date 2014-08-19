@@ -40,8 +40,10 @@ Ruby
 - [middleman-inliner](https://github.com/kaiinui/middleman-inliner) ![](https://badge.fury.io/rb/middleman-inliner.svg)
 - [CloudFlow](https://github.com/kaiinui/cloud_flow) ![](https://badge.fury.io/rb/cloud_flow.svg)
 - [rbbigquery](https://github.com/kaiinui/rbbigquery) ![](https://badge.fury.io/rb/rbbigquery.svg)
+- [TweetCollector](https://github.com/kaiinui/tweet_collector)
  
 Lists
 ---
 
-- [Android Awesome Libraries](https://github.com/kaiinui/android-awesome-libraries) 80+ libraries are listed!
+- [Android Awesome Libraries](https://github.com/kaiinui/android-awesome-libraries) - 80+ libraries are listed!
+- [iOS Awesome Libraries](https://github.com/kaiinui/ios-awesome-libraries) - Now compiling!

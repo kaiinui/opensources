@@ -4,7 +4,7 @@ opensources
 iOS
 ---
 
-- [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://progressed.io/bar/40) NSLog() without NSLog()!
+- [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://img.shields.io/cocoapods/v/KILogInject.svg?style=flat) NSLog() any method without writing NSLog()! 
 - [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
 - [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat)
 - [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom) ![](http://img.shields.io/cocoapods/v/AQMSecureRandom.svg?style=flat)

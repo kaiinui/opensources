@@ -4,6 +4,8 @@ opensources
 iOS
 ---
 
+- [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://progressed.io/bar/40) NSLog() without NSLog()!
+
 - [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
 - [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat)
 - [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom) ![](http://img.shields.io/cocoapods/v/AQMSecureRandom.svg?style=flat)
@@ -12,6 +14,13 @@ iOS
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)
+
+- [KIAppRate](https://github.com/kaiinui/KIAppRate) ![](http://progressed.io/bar/0) Improved Appirator.
+- [KIRescue](https://github.com/kaiinui/KIRescue) ![](http://progressed.io/bar/0) After support when the app crash.
+- [KIFeedback](https://github.com/kaiinui/KIFeedback) ![](http://progressed.io/bar/0) Feedback report with screenshots.
+
+- [LFLogfly](https://github.com/kaiinui/LFLogfly) ![](http://progressed.io/bar/0) A logger with batch data transferring to backend.
+
 
 Android
 ---
@@ -22,11 +31,6 @@ API
 ---
 
 - [schematools](https://github.com/kaiinui/schematools) WIP ![](http://progressed.io/bar/0)
-
-Logging
----
-
-- [witness](https://github.com/kaiinui/witness) WIP (witness-ios and witness-android is also WIP) ![](http://progressed.io/bar/5)
 
 Go
 ---

@@ -13,6 +13,7 @@ iOS
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
 - [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtensions) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
+- [AquaModel](https://github.com/AQAquamarine/AquaModel) ![](http://progressed.io/bar/20)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)
 - [KIAppRate](https://github.com/kaiinui/KIAppRate) ![](http://progressed.io/bar/0) Improved Appirator.
 - [KIRescue](https://github.com/kaiinui/KIRescue) ![](http://progressed.io/bar/0) After support when the app crash.

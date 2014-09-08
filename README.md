@@ -1,4 +1,4 @@
-opensources
+Opensources
 ===========
 
 iOS
@@ -11,6 +11,7 @@ iOS
 - [AQMBundledUser](https://github.com/AQAquamarine/AQMBundledUser) ![](http://img.shields.io/cocoapods/v/AQMBundledUser.svg?style=flat)
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView) ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat)
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
+- [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtensions) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)
 - [KIAppRate](https://github.com/kaiinui/KIAppRate) ![](http://progressed.io/bar/0) Improved Appirator.

@@ -9,6 +9,7 @@ iOS
 - [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat)
 - [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom) ![](http://img.shields.io/cocoapods/v/AQMSecureRandom.svg?style=flat)
 - [AQMBundledUser](https://github.com/AQAquamarine/AQMBundledUser) ![](http://img.shields.io/cocoapods/v/AQMBundledUser.svg?style=flat)
+- [AQSPermissionsLib](https://github.com/AquaSupport/AQSPermissionsLib) ![](http://img.shields.io/cocoapods/v/AQSPermissionsLib.svg?style=flat)
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView) ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat)
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
 - [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtensions) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)

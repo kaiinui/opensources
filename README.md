@@ -12,7 +12,7 @@ iOS
 - [AQSPermissionsLib](https://github.com/AquaSupport/AQSPermissionsLib) ![](http://img.shields.io/cocoapods/v/AQSPermissionsLib.svg?style=flat)
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView) ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat)
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
-- [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtensions) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)
+- [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [AquaModel](https://github.com/AQAquamarine/AquaModel) ![](http://progressed.io/bar/20)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)

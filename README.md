@@ -4,15 +4,16 @@ Opensources
 iOS
 ---
 
-- [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://img.shields.io/cocoapods/v/KILogInject.svg?style=flat) NSLog() any method without writing NSLog()! 
+- [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://img.shields.io/cocoapods/v/KILogInject.svg?style=flat) A set of loggers for better debugging. 
 - [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
 - [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat)
 - [AQMSecureRandom](https://github.com/AQAquamarine/AQMSecureRandom) ![](http://img.shields.io/cocoapods/v/AQMSecureRandom.svg?style=flat)
 - [AQMBundledUser](https://github.com/AQAquamarine/AQMBundledUser) ![](http://img.shields.io/cocoapods/v/AQMBundledUser.svg?style=flat)
-- [AQSPermissionsLib](https://github.com/AquaSupport/AQSPermissionsLib) ![](http://img.shields.io/cocoapods/v/AQSPermissionsLib.svg?style=flat)
-- [KIChameleonView](https://github.com/kaiinui/KIChameleonView) ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat)
-- [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat)
-- [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat)
+- [AQSPermissionsLib](https://github.com/AquaSupport/AQSPermissionsLib) ![](http://img.shields.io/cocoapods/v/AQSPermissionsLib.svg?style=flat) Handle permissions easier.
+- [KIInPlaceEdit](https://github.com/kaiinui/KIInPlaceEdit) ![](http://img.shields.io/cocoapods/v/KIInPlaceEdit.svg?style=flat) In-place editing for UILabel.
+- [KIChameleonView](https://github.com/kaiinui/KIChameleonView)  ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat) A magical image view.
+- [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat) Networking reachability in RAC world.
+- [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat) Gestures in RAC world.
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [AquaModel](https://github.com/AQAquamarine/AquaModel) ![](http://progressed.io/bar/20)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)

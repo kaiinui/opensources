@@ -14,6 +14,8 @@ iOS
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView)  ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat) A magical image view.
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat) Networking reachability in RAC world.
 - [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat) Gestures in RAC world.
+- [SyncedUserDefaults](https://github.com/kaiinui/SyncedUserDefaults) ![](http://progressed.io/bar/0) Synchronized `NSUserDefaults`
+- [QRWire](https://github.com/AquaConnect/QRWire-iOS) ![](http://progressed.io/bar/60) Device pairing by QR code.
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0)
 - [AquaModel](https://github.com/AQAquamarine/AquaModel) ![](http://progressed.io/bar/20)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60)

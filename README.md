@@ -14,7 +14,7 @@ iOS
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView)  ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat) A magical image view.
 - [KIProgressView](https://github.com/kaiinui/KIProgressView) Medium, Youtube-like progress bars!
 - [NSMutableData+MultipartFormData](https://github.com/kaiinui/NSMutableData-MultipartFormDataAdditions) ![](http://img.shields.io/cocoapods/v/NSMutableData+MultipartFormData.svg?style=flat) Easily build `multipart/form-data`-formatted data.
-- [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions) Beautiful colors from http://uigradients.com/ ![](http://img.shields.io/cocoapods/v/UIColor+uiGradients.svg?style=flat)
+- [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions) ![](http://img.shields.io/cocoapods/v/UIColor+uiGradients.svg?style=flat) Beautiful colors from http://uigradients.com/
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat) Networking reachability in RAC world.
 - [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat) Gestures in RAC world.
 - [SyncedUserDefaults](https://github.com/kaiinui/SyncedUserDefaults) ![](http://progressed.io/bar/0) Synchronized `NSUserDefaults`

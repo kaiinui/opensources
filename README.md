@@ -12,7 +12,7 @@ iOS
 - [AQSPermissionsLib](https://github.com/AquaSupport/AQSPermissionsLib) ![](http://img.shields.io/cocoapods/v/AQSPermissionsLib.svg?style=flat) Easily handle permissions for pre-permission / permission-rescue.
 - [KIInPlaceEdit](https://github.com/kaiinui/KIInPlaceEdit) ![](http://img.shields.io/cocoapods/v/KIInPlaceEdit.svg?style=flat) In-place editing for UILabel.
 - [KIChameleonView](https://github.com/kaiinui/KIChameleonView)  ![](http://img.shields.io/cocoapods/v/KIChameleonView.svg?style=flat) A magical image view.
-- [KIProgressView](https://github.com/kaiinui/KIProgressView) Medium, Youtube-like progress bars!
+- [KIProgressView](https://github.com/kaiinui/KIProgressView) ![](http://img.shields.io/cocoapods/v/KIProgressView.svg?style=flat) Medium, Youtube-like progress bars! 
 - [NSMutableData+MultipartFormData](https://github.com/kaiinui/NSMutableData-MultipartFormDataAdditions) ![](http://img.shields.io/cocoapods/v/NSMutableData+MultipartFormData.svg?style=flat) Easily build `multipart/form-data`-formatted data.
 - [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions) ![](http://img.shields.io/cocoapods/v/UIColor+uiGradients.svg?style=flat) Beautiful colors from http://uigradients.com/
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat) Networking reachability in RAC world.
@@ -46,6 +46,7 @@ Go
 Ruby
 ---
 
+- [GengoML](https://github.com/kaiinui/GengoML) Easy-to-parse format for Gengo
 - [aquasync-model](https://github.com/AQAquamarine/aquasync_model) ![](https://badge.fury.io/rb/aquasync_model.svg)
 - [middleman-inliner](https://github.com/kaiinui/middleman-inliner) ![](https://badge.fury.io/rb/middleman-inliner.svg)
 - [CloudFlow](https://github.com/kaiinui/cloud_flow) ![](https://badge.fury.io/rb/cloud_flow.svg)

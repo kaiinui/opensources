@@ -17,16 +17,31 @@ iOS
 - [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions) ![](http://img.shields.io/cocoapods/v/UIColor+uiGradients.svg?style=flat) Beautiful colors from http://uigradients.com/
 - [Reachability-RACExtensions](https://github.com/kaiinui/Reachability-RACExtensions) ![](http://img.shields.io/cocoapods/v/Reachability-RACExtensions.svg?style=flat) Networking reachability in RAC world.
 - [UIGestureRecognizer-RACExtensions](https://github.com/kaiinui/UIGestureRecognizer-RACExtension) ![](http://img.shields.io/cocoapods/v/UIGestureRecognizer+ReactiveCocoa.svg?style=flat) Gestures in RAC world.
-- [SyncedUserDefaults](https://github.com/kaiinui/SyncedUserDefaults) ![](http://progressed.io/bar/0) Synchronized `NSUserDefaults`
 - [QRWire](https://github.com/AquaConnect/QRWire-iOS) ![](http://progressed.io/bar/60) Device pairing by QR code.
 - [Aquamarine](https://github.com/AQAquamarine/Aquamarine) ![](http://progressed.io/bar/0) iOS Model Framework.
 - [AquaModel](https://github.com/AQAquamarine/AquaModel) ![](http://progressed.io/bar/20)
 - [aquasync-ios](https://github.com/AQAquamarine/aquasync-ios) ![](http://progressed.io/bar/60) Synchronization framework.
-- [KIAppRate](https://github.com/kaiinui/KIAppRate) ![](http://progressed.io/bar/0) Improved Appirator.
-- [KIRescue](https://github.com/kaiinui/KIRescue) ![](http://progressed.io/bar/0) After support when the app crash.
-- [KIFeedback](https://github.com/kaiinui/KIFeedback) ![](http://progressed.io/bar/0) Feedback report with screenshots.
-- [LFLogfly](https://github.com/kaiinui/LFLogfly) ![](http://progressed.io/bar/0) A logger with batch data transferring to backend.
 
+### Design Patterns
+
+- [AQSEvent](https://github.com/AquaSupport/AQSEvent) ![](http://img.shields.io/cocoapods/v/AQSEvent.svg?style=flat) - Measurement Events
+- [AQSEventAggregator](https://github.com/AquaSupport/AQSEventAggregator) ![](http://img.shields.io/cocoapods/v/AQSEventAggregator.svg?style=flat) - Events Aggregator
+- [AQSObservers](https://github.com/AquaSupport/AQSObservers) ![](http://img.shields.io/cocoapods/v/AQSObservers.svg?style=flat) - Notification Observer
+
+
+### UIActivities
+
+- [AQSFacebookMessengerActivity](https://github.com/AquaSupport/AQSFacebookMessengerActivity) ![](http://img.shields.io/cocoapods/v/AQSFacebookMessengerActivity.svg?style=flat)
+- [AQSFacebookWithSDKActivity](https://github.com/AquaSupport/AQSFacebookWithSDKActivity) ![](http://img.shields.io/cocoapods/v/AQSFacebookWithSDKActivity.svg?style=flat)
+- [AQSPinterestActivity](https://github.com/AquaSupport/AQSPinterestActivity) ![](http://img.shields.io/cocoapods/v/AQSPinterestActivity.svg?style=flat)
+- [AQSPocketActivity](https://github.com/AquaSupport/AQSPocketActivity) ![](http://img.shields.io/cocoapods/v/AQSPocketActivity.svg?style=flat)
+- [AQSWhatsAppActivity](https://github.com/AquaSupport/AQSWhatsAppActivity) ![](http://img.shields.io/cocoapods/v/AQSWhatsAppActivity.svg?style=flat)
+- [AQSLINEActivity](https://github.com/AquaSupport/AQSLINEActivity) ![](http://img.shields.io/cocoapods/v/AQSLINEActivity.svg?style=flat)
+- [AQSInstagramActivity](https://github.com/AquaSupport/AQSInstagramActivity) ![](http://img.shields.io/cocoapods/v/AQSInstagramActivity.svg?style=flat)
+- [AQSFacebookActivity](https://github.com/AquaSupport/AQSFacebookActivity) ![](http://img.shields.io/cocoapods/v/AQSFacebookActivity.svg?style=flat)
+- [AQSTwitterActivity](https://github.com/AquaSupport/AQSTwitterActivity) ![](http://img.shields.io/cocoapods/v/AQSTwitterActivity.svg?style=flat)
+- [AQSActionEmailActivity](https://github.com/AquaSupport/AQSActionEmailActivity) ![](http://img.shields.io/cocoapods/v/AQSActionEmailActivity.svg?style=flat)
+- [AQSActionMessageActivity](https://github.com/AquaSupport/AQSActionMessageActivity) ![](http://img.shields.io/cocoapods/v/AQSActionMessageActivity.svg?style=flat)
 
 Android
 ---

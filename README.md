@@ -33,6 +33,7 @@ iOS
 
 ### Common Libraries
 
+- [KISmoothWebView](https://github.com/kaiinui/KISmoothWebView) ![](http://img.shields.io/cocoapods/v/KISmoothWebView.svg?style=flat) Native-like behavior for `UIWebView`
 - [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://img.shields.io/cocoapods/v/KILogInject.svg?style=flat) A set of loggers for better debugging. 
 - [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
 - [KIFastQR](https://github.com/kaiinui/FastQR) ![](http://img.shields.io/cocoapods/v/KIFastQR.svg?style=flat) Allows you to implement QR feature in 3 min.

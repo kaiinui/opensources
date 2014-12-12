@@ -33,6 +33,7 @@ iOS
 
 ### Common Libraries
 
+- [PushablePusher](https://github.com/kaiinui/PushablePusher) ![](http://img.shields.io/cocoapods/v/PushablePusher.svg?style=flat) Provides client-side events push for libPusher
 - [KISmoothWebView](https://github.com/kaiinui/KISmoothWebView) ![](http://img.shields.io/cocoapods/v/KISmoothWebView.svg?style=flat) Native-like behavior for `UIWebView`
 - [KILogInject](https://github.com/kaiinui/KILogInject) ![](http://img.shields.io/cocoapods/v/KILogInject.svg?style=flat) A set of loggers for better debugging. 
 - [incam](https://github.com/kaiinui/incam) ![](http://img.shields.io/cocoapods/v/KIIncam.svg?style=flat)
